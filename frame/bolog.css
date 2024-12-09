@@ -1,0 +1,146 @@
+
+*{
+    margin: 0px;
+}
+
+
+nav{
+    background-image: url('/images/banner/banner1.png');
+    height: 817px;
+    background-repeat: no-repeat;
+    padding-left: 1400px;
+    padding-top: 500px;
+    background-size: cover;
+}
+
+.header-h2{
+    font-size: 60px;
+    padding-bottom: 25px;
+}
+
+.header-p{
+    color: aqua;
+    padding-bottom: 25px;
+}
+
+.header-btn{
+    width: 160px;
+    height: 64px;
+    background-color: rgb(255, 106, 0);
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* header end */
+
+section img {
+    margin: 500px;
+    color: coral;
+    border-radius: 50%;
+}
+
+
+section div{
+    text-align: left;
+    margin-top: -1000px;
+    margin-left: 1500px;
+}
+
+section > div > h4{
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+
+section > div > p{
+    font-size: 25px;
+    color: hotpink;
+    margin-bottom: 20px;
+}
+
+ ul > li{
+    font-size: 25px;
+}
+
+/* finis the section 1 end */
+
+
+section > h2{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+}
+
+.section-img{
+    display: flex;
+  margin-top: 5px;
+  margin: 200px;
+  margin-top: -200px;
+}
+
+.section-2{
+    display: none;
+}
+
+
+
+
+
+
+
+/* footer section */
+
+footer{
+    background-color: black;
+    margin-top: 100px;
+    height: 577px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer  h2{
+    color: white;
+    margin-top: 100px;
+    font-size: 45px;
+    font-weight: 100px;
+}
+footer p{
+    color: white;
+    font-size: 25px;
+}
+
+.footer-div > h3{
+    margin-top: 100px;
+    font-size:45px ;
+    color: white;
+}
+
+.footer-btn{
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 8px;
+    height: 64px;
+    width: 170px;
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+}
+
+.footer-div input{
+    width: 325px;
+    height: 64px;
+    background-color: black;
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.footer-img{
+    margin-top: 20px;
+    gap: 30px;
+}
